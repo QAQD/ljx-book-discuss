@@ -1,1 +1,1 @@
-# ljx-book-discuss
+# 网站评论插件
